@@ -5,6 +5,8 @@ SPAM SERVER BOT TELEGRAM DAN SEJENISNYA!!!
 Kalo kalian Atau teman kalian Menerima Pesan Berupa Format APK itu berarti penipuan.
 Lebih Baik Kita Buat Pengirim tersebut Sedikit Balasan.
 
+![image](https://github.com/indonesia-komunitas/BotBomSender/blob/main/image/img1.jpeg)
+
 ## Tutor Get Server
 
 - Buka website : [APK decompiler](https://www.decompiler.com)
@@ -14,6 +16,8 @@ Lebih Baik Kita Buat Pengirim tersebut Sedikit Balasan.
 - Buka `MainActivity.java` dengan Notepad Atau jika masih menggunakan Winrar klik kanan pilih `View File`
 - carilah Request.Builder() atau sejenisnya yang menyerupai sebuah Link.
 - Selamat Anda Menemukan Server Pengirim
+
+![image](https://github.com/indonesia-komunitas/BotBomSender/blob/main/image/img2.png)
 
 ## Tutor Run Bot
 
