@@ -1,8 +1,8 @@
 const axios = require("axios");
 
 const jumlahPengiriman = 100000;
-const teks = PESAN_UNTUK_TARGET;
-const url_target = SERVER_TARGET;
+const teks = "PESAN_UNTUK_TARGET";
+const url_target = "SERVER_TARGET";
 
 async function kirimTeks() {
   try {
