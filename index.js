@@ -1,11 +1,8 @@
 const axios = require("axios");
 
-const jumlahPengiriman = 10000;
-const teks = "TOBAT NGENTOD";
-const url_target =
-  "https://api.telegram.org/bot7030635610:AAFV2YvVlHNU0wycKhNEWZcgRC34u7cDag4/sendMessage?parse_mode=markdown&chat_id=6928615755&text=*" +
-  teks +
-  "*";
+const jumlahPengiriman = 100000;
+const teks = PESAN_UNTUK_TARGET;
+const url_target = SERVER_TARGET;
 
 async function kirimTeks() {
   try {
